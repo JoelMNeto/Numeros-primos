@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="assets/numerosPrimos.png" alt="Identificador de números primos" width="300">
+  <img src="assets/numerosPrimos.png" alt="Identificador de números primos" width="200" heigth="300">
 </div>
 
 <br>
