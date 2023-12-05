@@ -16,6 +16,8 @@
 
 Quando o campo é preenchido e o botão "Testar" é clicado, o "resultado" é alterado, mostrando se o número digitado é um número primo ou não.
 
+<br>
+
 ## **Tecnologia utilizada**
 
 <div>
